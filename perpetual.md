@@ -18,6 +18,6 @@ You basically load up a song, set the start and end markers and press play. The 
 
 The positive response made me really excited about this and I can't wait to continue working on it.
 
-The next step is to figure out how to extract metadata from the music file and hopefully find a way to show some sort of cover image. Next, I'll try to implement the sweet-looking UI Bryan made.
+The next step is to figure out how to extract metadata from the music file and hopefully find a way to show some sort of cover image. After that, I'll try to implement the sweet-looking UI Bryan made.
 
 You'll find the repo at [https://github.com/revyver/perpetual](https://github.com/revyver/perpetual) 
